@@ -1,0 +1,29 @@
+p
+{
+   background-color: lavenderblush;
+   padding: 10px;
+   margin: 1%;
+   width: 20%;
+}
+
+p::first-letter
+{
+    font-size: 1.8em;
+    font-weight: bolder;
+    color: red;
+}
+
+#kozepso
+{
+    float:left ;
+}
+
+#elso
+{
+    float: left;
+}
+
+#szelso
+{
+    float: left;
+}
